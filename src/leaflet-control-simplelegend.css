@@ -7,16 +7,16 @@
     border-radius: 5px;
     cursor: pointer;
 }
-.leaflet-control-simplelegend-img{
+.leaflet-control-simplelegend img{
     max-width: 280px !important;
     /*max-width: 280px;*/
     max-height: 280px;
     cursor: pointer;
 }
-.leaflet-control-simplelegend-label {
+/*.leaflet-control-simplelegend-label {
     margin: 0 0 5px;
     color: #777;
-}
+}*/
 
 .leaflet-control-simplelegend h4 {
     margin: 0 0 5px;
