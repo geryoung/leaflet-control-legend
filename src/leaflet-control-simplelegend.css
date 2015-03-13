@@ -33,3 +33,7 @@
     display: none;
 }
 
+.leaflet-control-simplelegend-hidden {
+    display: none;
+}
+

@@ -52,11 +52,11 @@ L.Control.SimpleLegend = L.Control.extend({
     },
 
     showLegend: function() {
-        L.DomUtil.removeClass(this._container, 'hidden');
+        L.DomUtil.removeClass(this._container, 'leaflet-control-simplelegend-hidden');
     },
 
     hideLegend: function() {
-            L.DomUtil.addClass(this._container, 'hidden');
+            L.DomUtil.addClass(this._container, 'leaflet-control-simplelegend-hidden');
     }
         //,
 
